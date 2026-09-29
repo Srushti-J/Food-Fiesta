@@ -100,9 +100,11 @@
 		</dependency>
 
 		<!-- AI-assisted delivery-time predictions -->
+		<!-- AI-assisted delivery-time predictions -->
 		<dependency>
 			<groupId>org.springframework.ai</groupId>
-			<artifactId>spring-ai-starter-model-openai</artifactId>
+			<artifactId>spring-ai-starter-model-ollama</artifactId>
+			<version>1.0.0</version>
 		</dependency>
 
 		<!-- Resilience4j circuit breaker for external Map API calls -->

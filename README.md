@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍕 Food Fiesta
+# Food Fiesta
 
 **A geospatial, real-time food-delivery platform built on Spring Boot 3 and Java 21.**
 
